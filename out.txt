@@ -1,0 +1,4 @@
+
+Sum is 1664 
+Largest Number is 899 
+Smallest number is 3 
