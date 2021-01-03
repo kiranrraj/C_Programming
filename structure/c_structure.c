@@ -8,14 +8,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(){
-    
-    struct book{
-        int b_code;
-        char name[40];
-        float price;
-        int publish_year;
-    } book1 ={1022, "water", 200.00, 1999};
+struct student
 
-    printf("%d, %s, %.2f, %d",book1.b_code, book1.name, book1.price, book1.publish_year);
-}
+{
+
+     int b[10];
+
+     char ch;
+
+}; 
