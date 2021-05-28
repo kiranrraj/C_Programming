@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-main() {
+void main() {
 
     // Initialize an array an size
     int number[5] = {11,22,33,44,55};

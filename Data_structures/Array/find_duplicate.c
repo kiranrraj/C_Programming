@@ -3,7 +3,6 @@
 int main()
 {
     int array[10], i, n, j, flag = 0;
-    clrscr();
     printf("\n Enter the size of the array : ");
     scanf("%d", &n);
     for (i = 0; i < n; i++)
