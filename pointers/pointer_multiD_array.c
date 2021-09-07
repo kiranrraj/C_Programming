@@ -5,7 +5,7 @@ int main(){
     printf("\n%d", *multi_arr); // Prints starting address of multi_arr
     printf("\n%d", &multi_arr); // Prints starting address of multi_arr
     printf("\n%d", multi_arr[0]); // Prints starting address of multi_arr
-    printf("\n%d", multi_arr[0][0]); // Prints starting address of multi_arr
+    pr
 
     int (*ptr)[2] = multi_arr;
     printf("\n%d", ptr); // Prints starting address of multi_arr
